@@ -2,34 +2,34 @@
 <tr>
 <td width="480" valign="top">
 
-<img src="assets/chess.svg" alt="Partie d'échecs animée : Kelian contre gojo" width="460">
+<img src="assets/chess.svg" alt="Animated chess game: Kelian vs gojo" width="460">
 
 </td>
 <td valign="top">
 
-## À propos
+## About
 
-### Salut.
+### Hi.
 
-Je suis un **dev camerounais autodidacte** de 19 ans.
+I'm a **self-taught Cameroonian dev**, 19 years old.
 
-J'aime **Spider-Man**, la liberté et la bonne bouffe. 🍜
+I like **Spider-Man**, freedom and good food. 🍜
 
-Je passe pas mal de temps à **explorer Linux**, bidouiller des configs et donner vie à des idées. Je touche à plusieurs technos et je construis des projets à ma façon.
+I spend a lot of time **exploring Linux**, tinkering with configs and bringing ideas to life. I dabble in a lot of different technologies and build projects my own way.
 
-Mon objectif ? Aucun, dans la vie j'ai pas vraiment de but. Je pense juste qu'on doit apprécier la vue avant de scier la branche.
+My goal? None, I don't really have one in life. I just think you should enjoy the view before sawing off the branch.
 
-**Pour me contacter**
+**Get in touch**
 
-- Discord : [Mon profil](https://discordapp.com/users/1477032203064967229)
-- Twitter : [@kelianfb](https://twitter.com/kelianfb)
-- Element : `@kamey.4:matrix.org`
+- Discord: [My profile](https://discordapp.com/users/1477032203064967229)
+- Twitter: [@kelianfb](https://twitter.com/kelianfb)
+- Element: `@kamey.4:matrix.org`
 
 </td>
 </tr>
 </table>
 
-## Ce que j'ai fait
+## What I've built
 
 <table>
 <tr>
@@ -37,7 +37,7 @@ Mon objectif ? Aucun, dans la vie j'ai pas vraiment de but. Je pense juste qu'on
 
 ### [cera](https://github.com/kelian-4/cera)
 
-Éditeur de texte en terminal, écrit en Rust avec un system de plugins.
+A terminal text editor written in Rust, with a plugin system.
 
 `Rust`
 
@@ -46,7 +46,7 @@ Mon objectif ? Aucun, dans la vie j'ai pas vraiment de but. Je pense juste qu'on
 
 ### [bridge](https://github.com/kelian-4/bridge)
 
-Relie WhatsApp et Signal via mautrix. Synapse et les passerelles tournent en Docker,Nix et une version termux avec des scripts Python pour automatiser.
+Bridges WhatsApp and Signal via mautrix. Synapse and the bridges run on Docker and Nix, plus a Termux version with Python scripts for automation.
 
 `Python` · `Docker` · `Nix`
 
@@ -55,7 +55,7 @@ Relie WhatsApp et Signal via mautrix. Synapse et les passerelles tournent en Doc
 
 ### [gamepad](https://github.com/kelian-4/gamepad)
 
-Transforme ton iPhone en manette de jeu pour ton PC Linux.
+Turns your iPhone into a game controller for your Linux PC.
 
 `Swift` · `Python`
 
@@ -63,6 +63,6 @@ Transforme ton iPhone en manette de jeu pour ton PC Linux.
 </tr>
 </table>
 
-<img src="assets/commits.svg" alt="Un vaisseau tire sur un graphique de contributions" width="100%">
+<img src="assets/commits.svg" alt="A spaceship shooting at a contribution graph" width="100%">
 
-<sub>Pièces d'échecs : cburnett (Lichess), licence GPLv2+/BSD/GFDL.</sub>
+<sub>Chess pieces: cburnett (Lichess), GPLv2+/BSD/GFDL license.</sub>
