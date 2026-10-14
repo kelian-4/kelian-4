@@ -9,7 +9,7 @@
 
 ## À propos
 
-### Salut, moi c'est Kelian.
+### Salut.
 
 Je suis un **dev camerounais autodidacte** de 19 ans.
 
