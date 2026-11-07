@@ -44,11 +44,11 @@ A terminal text editor written in Rust, with a plugin system.
 </td>
 <td width="33%" valign="top">
 
-### [bridge](https://github.com/kelian-4/bridge)
+### [lickintosh](https://github.com/kelian-4/lickintosh)
 
-Bridges WhatsApp and Signal via mautrix. Synapse and the bridges run on Docker and Nix, plus a Termux version with Python scripts for automation.
+A macOS Tahoe-inspired desktop shell for Hyprland, built with Quickshell: global menu, notch, dock, Control Center, Spotlight, lock screen and liquid glass.
 
-`Python` · `Docker` · `Nix`
+`QML` · `Quickshell` · `Hyprland`
 
 </td>
 <td width="33%" valign="top">
